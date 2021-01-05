@@ -7,5 +7,7 @@
  💼 LinkedIn: www.linkedin.com/in/praddy18597
  😄 Pronouns: Python
  ⚡ Fun fact: Technology lover and explorer
+	
+	
 
 
