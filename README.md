@@ -9,7 +9,7 @@ My name is Pradeep Kamble. About me, I'm Highly Ambitious, Passionate, Self-Moti
 
 •	💼 LinkedIn: www.linkedin.com/in/praddy18597
 
-•	😄 Pronouns: Python and Java
+•	😄 Pronouns: Python
 
 •	⚡ Fun fact: Technology lover and explorer
 
