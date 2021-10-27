@@ -1,7 +1,7 @@
 Hi there 👋
 My name is Pradeep Kamble. About me, I'm Highly Ambitious, Passionate, Self-Motivated, Technical software engineer and Data Analyst.
 
-•	🔭 I’m currently working in Openet as a Software Engineer
+•	🔭 I’m currently working in Openet - AN Amdocs Company as a Software Engineer
 
 •	🌱 I’m currently learning Spring
 
