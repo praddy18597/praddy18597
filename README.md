@@ -1,7 +1,7 @@
 Hi there 👋
-My name is Pradeep Kamble. About me, I'm Highly Ambitious, Passionate, Self-Motivated, Technical software engineer and Data Analyst seeking full-time opportunities in Both    fields as graduate.
+My name is Pradeep Kamble. About me, I'm Highly Ambitious, Passionate, Self-Motivated, Technical software engineer and Data Analyst.
 
-•	🔭 I’m currently working on Python and Java Projects to improve my Analytical and Development skills.
+•	🔭 I’m currently working in Openet as a Software Engineer
 
 •	🌱 I’m currently learning Spring
 
